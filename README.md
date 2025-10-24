@@ -1,2 +1,10 @@
-# lab1.1-entorno-colaborativo
-“Práctica de configuración de entorno colaborativo con Git y GitHub/GitLab.”
+# \### Integrantes del equipo
+
+# \- Jaira Chicaiza
+
+# \- Joel Taipicaña
+
+# \- \[otros si aplica]
+
+# 
+
